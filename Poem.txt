@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and  the Unicore
 
 purple
 orange
@@ -7,3 +7,7 @@ green
 yellow
 pink
 these are the colors of rainbow
+
+
+Gray
+sky
