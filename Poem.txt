@@ -7,7 +7,7 @@ green
 yellow
 pink
 these are the colors of rainbow
-
+indigo
 
 Gray
 sky
